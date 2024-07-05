@@ -97,6 +97,19 @@ main {
     text-align: center;
 }
 
+.contact-text p {
+    margin-bottom: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.contact-text .icon {
+    margin-right: 0.5em;
+    max-width: 30px; 
+    height: auto;
+}
+
+
 .contact-info img {
     max-width: 100%;
     height: auto;
