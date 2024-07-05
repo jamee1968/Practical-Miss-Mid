@@ -88,7 +88,16 @@ main {
     height: auto;
 }
 
+.product-name {
+    font-family: 'Pacifico', cursive;
+}
+
 .contact-info {
     padding: 2em;
     text-align: center;
+}
+
+.contact-info img {
+    max-width: 100%;
+    height: auto;
 }
